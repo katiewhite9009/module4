@@ -1,0 +1,17 @@
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+background: #00ff0050 url("../images/gorilla.jpg") no-repeat left top;
+}
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
+
+h1 {background-color:#00ff00; font-style: italic /*extra style 2*/}
+
+* {font-weight:bolder} /*extra style 1*/
+
+p {direction: rtl} /*extra style 3*/
